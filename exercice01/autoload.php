@@ -11,3 +11,5 @@ spl_autoload_extensions('.php');
 
 // Use default autoload implementation
 spl_autoload_register();
+
+?>

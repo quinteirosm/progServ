@@ -1,4 +1,5 @@
 <?php
+
 require_once('autoload.php');
 
 // permet le chargement automatique des classes utilisées
